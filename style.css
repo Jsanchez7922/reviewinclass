@@ -1,0 +1,30 @@
+body {
+    margin: 1em;
+    border: 1em;
+    font-size: 1em;
+    background-color: bisque;
+    
+}
+img {
+    border-style: solid; 
+    border-width: thick;
+    border-color: red;
+    border-width: .20in;
+    padding: .15in;
+    background-color: bisque;
+    margin: .15in;
+}
+p {
+    color: brown;
+    font-size: 2em;
+
+}
+blockquote {
+    font-style: italic;
+    margin: .15in;
+    font-size: 2em;
+    line-height: 2em;
+}
+
+    
+
